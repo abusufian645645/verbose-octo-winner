@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GuardianLock</string>
+    <string name="notif_channel_name">Device Protection</string>
+    <string name="notif_active_title">GuardianLock is active</string>
+    <string name="notif_active_text">Watching for unauthorized unlock attempts and tampering</string>
+    <string name="setup_title">Protect this device</string>
+    <string name="contact_hint">Designated contact phone number</string>
+    <string name="enable_button">Enable Protection</string>
+    <string name="disable_button">Disable Protection</string>
+</resources>
